@@ -1,5 +1,5 @@
 import streamlit as st
-from sklearn import pickle
+import pickle
 import pandas as pd
 
 teams = ['Sunrisers Hyderabad',
